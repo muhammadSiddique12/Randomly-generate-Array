@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: blue;
+  margin-bottom: 25px;
+}
+label {
+  font-size: 22px;
+  color: green;
+}
+input {
+  padding: 6px;
+  font-size: 18px;
+}
+h4 {
+  margin-top: 10px;
+  font-size: 24px;
+  color: #c5c517;
+}
+body {
+  text-align: center;
+}
